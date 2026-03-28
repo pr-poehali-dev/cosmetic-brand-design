@@ -20,7 +20,8 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				montserrat: ['Montserrat', 'sans-serif'],
+				sans: ['Golos Text', 'sans-serif'],
+				golos: ['Golos Text', 'sans-serif'],
 				cormorant: ['Cormorant Garamond', 'serif'],
 			},
 			colors: {
